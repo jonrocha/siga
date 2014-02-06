@@ -1,9 +1,9 @@
-package br.com.sigaa.mbean;
+package br.com.siga.mbean;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
-import br.com.sigaa.entidade.Usuario;
+import br.com.siga.entidade.Usuario;
 
 @ManagedBean(name="usuarioMBean")
 @RequestScoped

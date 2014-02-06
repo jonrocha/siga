@@ -1,4 +1,4 @@
-package br.com.sigaa.entidade;
+package br.com.siga.entidade;
 
 import java.io.Serializable;
 
